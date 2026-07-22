@@ -8,7 +8,7 @@
 **轻量化、可快速部署的私有知识库问答系统**
 
 <p align="center">
-<img src="./assets/111.png" width="800">
+<img src="111.png" width="800">
 </p>
 <p align="center">项目运行效果图</p>
 。
